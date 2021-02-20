@@ -11,27 +11,7 @@
 *.csv
 *.tsv
 *.txt
-*.ipynb
 *.ipynb_checkpoints
-
-# names to avoid that start with 
-
-*TAX.ITP.TSS
-*202
-
-# exclude these folders
-
-/OneDrive_1_8-11-2020/
-*/OneDrive_1_8-11-2020/
-*OneDrive_1_8-11-2020
-
-/Tax Sharing Statements/
-*/Tax Sharing Statements/
-*Tax Sharing Statements
-
-/Refundable credit forecast/
-*/Refundable credit forecast/
-*Refundable credit forecast
 
 
 # below is a generic python .gitignore
